@@ -321,6 +321,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [VertexStudio/developer](https://github.com/VertexStudio/developer) 🦀 🏠 🍎 🪟 🐧 - Comprehensive developer tools for file editing, shell command execution, and screen capture capabilities
 - [x51xxx/codex-mcp-tool](https://github.com/x51xxx/codex-mcp-tool) 📇 ☁️ - MCP server that connects your IDE or AI assistant to Codex CLI for code analysis and editing with support for multiple models (gpt-5-codex, o3, codex-1)
 - [x51xxx/copilot-mcp-server](https://github.com/x51xxx/copilot-mcp-server) 📇 ☁️ - MCP server that connects your IDE or AI assistant to GitHub Copilot CLI for code analysis, review, and batch processing
+- [Claude Code Guardian](https://github.com/phuongrealmax/claude-code-guardian) - AI-Safe Code Analysis with 113+ MCP tools including guard validation, memory persistence, workflow tracking, and latent chain reasoning.
 - [wende/cicada](https://github.com/wende/cicada) 🐍 🏠 🍎 🪟 🐧 - Code Intelligence for Elixir: module search, function tracking, and PR attribution through tree-sitter AST parsing
 
 ### 🖥️ <a name="command-line"></a>Command Line
